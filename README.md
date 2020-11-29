@@ -1,3 +1,7 @@
+# Project
+
+This project was cloned from following repository - https://github.com/caki0915/typescript-react-eslint-prettier
+
 # Typescript React Eslint and Prettier
 
 This is an example on how you easily can get React and Typescript to work with Eslint and Prettier.
